@@ -153,7 +153,7 @@ End-to-end EDA and business intelligence project analyzing sales, profit, and re
 
 **Highlight:** `TODO: e.g., "Identified underperforming regions and proposed a data-backed profit improvement strategy."`
 
-[![Repo](https://img.shields.io/badge/VIEW%20REPOSITORY-0d1117?style=for-the-badge&logo=github&logoColor=00E5FF)](https://github.com/YOUR-USERNAME/global-superstore-analysis)
+[![Repo](https://img.shields.io/badge/VIEW%20REPOSITORY-0d1117?style=for-the-badge&logo=github&logoColor=00E5FF)](https://github.com/Sharonfrancis05/global-superstore-analysis)
 
 </td>
 <td width="50%" valign="top" bgcolor="#160e20">
@@ -166,7 +166,7 @@ Analysis of HR data to identify key drivers behind employee attrition and suppor
 
 **Highlight:** `TODO: e.g., "Highlighted top 3 attrition factors using statistical analysis."`
 
-[![Repo](https://img.shields.io/badge/VIEW%20REPOSITORY-0d1117?style=for-the-badge&logo=github&logoColor=8A2BE2)](https://github.com/YOUR-USERNAME/employee-attrition-analysis)
+[![Repo](https://img.shields.io/badge/VIEW%20REPOSITORY-0d1117?style=for-the-badge&logo=github&logoColor=8A2BE2)](https://github.com/Sharonfrancis05/employee-attrition-analysis)
 
 </td>
 </tr>
@@ -181,7 +181,7 @@ Exploratory data analysis uncovering churn patterns and behavioral trends across
 
 **Highlight:** `TODO: e.g., "Surfaced key churn indicators to guide business retention strategy."`
 
-[![Repo](https://img.shields.io/badge/VIEW%20REPOSITORY-0d1117?style=for-the-badge&logo=github&logoColor=1E90FF)](https://github.com/YOUR-USERNAME/customer-churn-eda)
+[![Repo](https://img.shields.io/badge/VIEW%20REPOSITORY-0d1117?style=for-the-badge&logo=github&logoColor=1E90FF)](https://github.com/Sharonfrancis05/customer-churn-eda)
 
 </td>
 <td width="50%" valign="top" bgcolor="#0e1420">
@@ -194,7 +194,7 @@ Visual analysis of Netflix's content catalog, exploring trends across genres, co
 
 **Highlight:** `TODO: e.g., "Revealed content trends across 5+ regions and 10+ years of releases."`
 
-[![Repo](https://img.shields.io/badge/VIEW%20REPOSITORY-0d1117?style=for-the-badge&logo=github&logoColor=6A11CB)](https://github.com/YOUR-USERNAME/netflix-data-visualization)
+[![Repo](https://img.shields.io/badge/VIEW%20REPOSITORY-0d1117?style=for-the-badge&logo=github&logoColor=6A11CB)](https://github.com/Sharonfrancis05/netflix-data-visualization)
 
 </td>
 </tr>
@@ -202,7 +202,7 @@ Visual analysis of Netflix's content catalog, exploring trends across genres, co
 
 <div align="center">
 
-**[View All Repositories →](https://github.com/YOUR-USERNAME?tab=repositories)**
+**[View All Repositories →](https://github.com/Sharonfrancis05?tab=repositories)**
 
 </div>
 
@@ -213,21 +213,21 @@ Visual analysis of Netflix's content catalog, exploring trends across genres, co
 <table width="100%">
 <tr>
 <td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E5FF&icon_color=8A2BE2&text_color=c9d1d9" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Sharonfrancis05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E5FF&icon_color=8A2BE2&text_color=c9d1d9" width="100%"/>
 </td>
 <td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E5FF&text_color=c9d1d9" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharonfrancis05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E5FF&text_color=c9d1d9" width="100%"/>
 </td>
 </tr>
 <tr>
 <td width="50%" align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR-USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=8A2BE2&fire=00E5FF&currStreakLabel=00E5FF" width="100%"/>
+<img src="https://streak-stats.demolab.com?user=Sharonfrancis05&theme=tokyonight&hide_border=true&background=0d1117&ring=8A2BE2&fire=00E5FF&currStreakLabel=00E5FF" width="100%"/>
 </td>
 <td width="50%" align="center">
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR-USERNAME&style=for-the-badge&color=1E90FF&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Sharonfrancis05&style=for-the-badge&color=1E90FF&label=PROFILE+VIEWS)
 
 </td>
 </tr>
@@ -235,7 +235,7 @@ Visual analysis of Netflix's content catalog, exploring trends across genres, co
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00E5FF&line=8A2BE2&point=ffffff" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sharonfrancis05&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00E5FF&line=8A2BE2&point=ffffff" width="100%"/>
 
 </div>
 
@@ -267,7 +267,7 @@ Visual analysis of Netflix's content catalog, exploring trends across genres, co
 <a href="https://linkedin.com/in/YOUR-LINKEDIN-ID" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:YOUR-EMAIL@example.com">
+<a href="mailto:francissharon552@gmail.com">
   <img src="https://img.shields.io/badge/Email-1E90FF?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://YOUR-RESUME-LINK.com" target="_blank">
