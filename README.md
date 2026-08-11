@@ -187,8 +187,8 @@ NPTEL — Data Analytics with Python *(Elite | 73%)*
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sharonfrancis05&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=8B5CF6&text_color=E2E8F0)](https://github.com/Sharonfrancis05)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharonfrancis05&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=06B6D4&text_color=E2E8F0)](https://github.com/Sharonfrancis05)
+[![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Sharonfrancis05&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=8B5CF6&text_color=E2E8F0)](https://github.com/Sharonfrancis05)
+[![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sharonfrancis05&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=06B6D4&text_color=E2E8F0)](https://github.com/Sharonfrancis05)
 
 <br/>
 
@@ -196,11 +196,13 @@ NPTEL — Data Analytics with Python *(Elite | 73%)*
 
 <br/>
 
-[![Contribution Streak](https://streak-stats.demolab.com/?user=Sharonfrancis05&theme=dark&hide_border=true&background=0D1117&stroke=0D1117&ring=06B6D4&fire=8B5CF6&currStreakLabel=06B6D4)](https://github.com/Sharonfrancis05)
+<!-- Public Streak API is currently timing out / down. Uncomment when stable, or use GitHub Actions to generate it locally! -->
+<!-- [![Contribution Streak](https://streak-stats.demolab.com/?user=Sharonfrancis05&theme=dark&hide_border=true&background=0D1117&stroke=0D1117&ring=06B6D4&fire=8B5CF6&currStreakLabel=06B6D4)](https://github.com/Sharonfrancis05) -->
 
 <br/><br/>
 
-[![Contribution snake animation](https://raw.githubusercontent.com/Sharonfrancis05/Sharonfrancis05/output/github-contribution-grid-snake-dark.svg)](https://github.com/Sharonfrancis05)
+<!-- Uncomment this once you have created the GitHub Action to generate the snake! -->
+<!-- [![Contribution snake animation](https://raw.githubusercontent.com/Sharonfrancis05/Sharonfrancis05/output/github-contribution-grid-snake-dark.svg)](https://github.com/Sharonfrancis05) -->
 
 </div>
 
