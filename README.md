@@ -16,10 +16,10 @@
 <br/>
 
 <a href="https://github.com/Sharonfrancis05"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="www.linkedin.com/in/sharon-francis-05ab28349"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/></a>
 <a href="YOUR_RESUME_URL"><img src="https://img.shields.io/badge/Resume-06B6D4?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume"/></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="francissharon552@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <br/><br/>
 
@@ -104,7 +104,7 @@ class SharonFrancis:
 End-to-end exploratory analysis of the Global Superstore dataset. Cleaned raw data, identified sales trends, and surfaced actionable business insights regarding profitability and regional performance.
 
 <br/>
-<a href="YOUR_REPO_URL_PROJECT_01"><img src="https://img.shields.io/badge/View_Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/></a>
+<a href="https://github.com/Sharonfrancis05/Global-Superstore-Analysis"><img src="https://img.shields.io/badge/View_Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/></a>
 
 </td>
 <td width="50%" valign="top">
@@ -115,8 +115,8 @@ End-to-end exploratory analysis of the Global Superstore dataset. Cleaned raw da
 A comprehensive movie ticket booking web app. Covers the full user journey: secure authentication, browsing movies, viewing details, selecting interactive seats, and managing bookings via Supabase.
 
 <br/>
-<a href="YOUR_REPO_URL_PROJECT_02"><img src="https://img.shields.io/badge/View_Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/></a>
-<a href="YOUR_DEMO_URL_PROJECT_02"><img src="https://img.shields.io/badge/Live_Demo-3B82F6?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
+<a href="https://github.com/Sharonfrancis05/CineBook"><img src="https://img.shields.io/badge/View_Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/></a>
+<a href="http://localhost:5173/><img src="https://img.shields.io/badge/Live_Demo-3B82F6?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
 
 </td>
 </tr>
@@ -129,7 +129,7 @@ A comprehensive movie ticket booking web app. Covers the full user journey: secu
 A finance management application built to help users track and understand their personal spending. Features include custom categorizations, transaction history, and visual financial summaries.
 
 <br/>
-<a href="YOUR_REPO_URL_PROJECT_03"><img src="https://img.shields.io/badge/View_Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/></a>
+<a href="https://github.com/Sharonfrancis05/Personal_Finance_Tracker"><img src="https://img.shields.io/badge/View_Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/></a>
 <a href="YOUR_DEMO_URL_PROJECT_03"><img src="https://img.shields.io/badge/Live_Demo-3B82F6?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
 
 </td>
@@ -141,7 +141,7 @@ A finance management application built to help users track and understand their 
 Exploratory data analysis aimed at identifying the key drivers behind customer churn. Involved extensive data cleaning, correlation mapping, and providing actionable business recommendations.
 
 <br/>
-<a href="YOUR_REPO_URL_PROJECT_04"><img src="https://img.shields.io/badge/View_Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/></a>
+<a href="https://github.com/Sharonfrancis05/Customer-Churn-EDA"><img src="https://img.shields.io/badge/View_Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/></a>
 
 </td>
 </tr>
@@ -187,17 +187,7 @@ NPTEL — Data Analytics with Python *(Elite | 73%)*
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Sharonfrancis05&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=8B5CF6&text_color=E2E8F0)](https://github.com/Sharonfrancis05)
-[![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sharonfrancis05&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=06B6D4&text_color=E2E8F0)](https://github.com/Sharonfrancis05)
-
-<br/>
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sharonfrancis05&bg_color=0D1117&color=06B6D4&line=8B5CF6&point=FFFFFF&area=true&hide_border=true)](https://github.com/Sharonfrancis05)
-
-<br/>
-
-<!-- Public Streak API is currently timing out / down. Uncomment when stable, or use GitHub Actions to generate it locally! -->
-<!-- [![Contribution Streak](https://streak-stats.demolab.com/?user=Sharonfrancis05&theme=dark&hide_border=true&background=0D1117&stroke=0D1117&ring=06B6D4&fire=8B5CF6&currStreakLabel=06B6D4)](https://github.com/Sharonfrancis05) -->
+[![Contribution Streak](https://streak-stats.demolab.com/?user=Sharonfrancis05&theme=dark&hide_border=true&background=0D1117&stroke=0D1117&ring=06B6D4&fire=8B5CF6&currStreakLabel=06B6D4)](https://github.com/Sharonfrancis05)
 
 <br/><br/>
 
@@ -219,8 +209,8 @@ NPTEL — Data Analytics with Python *(Elite | 73%)*
 </p>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Sharonfrancis05-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sharonfrancis05)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-YOUR_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sharon-francis-05ab28349)
+[![Email](https://img.shields.io/badge/Email-YOUR_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:francissharon552@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=todoist&logoColor=white)](YOUR_PORTFOLIO_URL)
 [![Resume](https://img.shields.io/badge/Resume-Download-06B6D4?style=for-the-badge&logo=readdotcv&logoColor=white)](YOUR_RESUME_URL)
 
