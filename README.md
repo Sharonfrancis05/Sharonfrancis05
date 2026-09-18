@@ -109,14 +109,28 @@ End-to-end exploratory analysis of the Global Superstore dataset. Cleaned raw da
 </td>
 <td width="50%" valign="top">
 
-### 🎬 CineBook
-> **Full-Stack** | `React` `CSS` `JS` `Supabase`
+### 🔍 Parakh
+> **AI-Powered Truth Verification Platform** | `Python` `AI/ML` `NLP`
 
-A comprehensive movie ticket booking web app. Covers the full user journey: secure authentication, browsing movies, viewing details, selecting interactive seats, and managing bookings via Supabase.
+An AI-powered truth verification platform designed to analyze textual claims and provide insights using Natural Language Processing and Machine Learning techniques. Parakh focuses on processing user-provided information, analyzing its linguistic and contextual patterns, and supporting more informed evaluation of claims.
 
 <br/>
-<a href="YOUR_REPO_URL_PROJECT_02"><img src="https://img.shields.io/badge/View_Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/></a>
-<a href="YOUR_DEMO_URL_PROJECT_02"><img src="https://img.shields.io/badge/Live_Demo-3B82F6?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
+<a href="YOUR_REPO_URL_PARAKH"><img src="https://img.shields.io/badge/View_Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/></a>
+<a href="YOUR_DEMO_URL_PARAKH"><img src="https://img.shields.io/badge/Live_Demo-3B82F6?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌱 AgriScan AI
+> **AI/ML** | `Python` `PyTorch` `CNN` `OpenCV`
+
+An AI-powered plant disease detection system that uses deep learning and computer vision to identify diseases from plant leaf images. AgriScan AI applies image preprocessing and Convolutional Neural Networks (CNNs) to classify plant diseases and support faster, technology-driven crop health assessment.
+
+<br/>
+<a href="YOUR_REPO_URL_AGRISCAN"><img src="https://img.shields.io/badge/View_Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/></a>
+<a href="YOUR_DEMO_URL_AGRISCAN"><img src="https://img.shields.io/badge/Live_Demo-3B82F6?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
 
 </td>
 </tr>
@@ -148,6 +162,20 @@ Exploratory data analysis aimed at identifying the key drivers behind customer c
 </table>
 
 <br/>
+
+### 🎬 CineBook
+> **Full-Stack** | `React` `CSS` `JavaScript` `Supabase`
+
+A full-stack movie ticket booking web application designed to provide a seamless movie-booking experience. CineBook enables users to securely authenticate, browse available movies, explore movie details, select seats through an interactive interface, and manage their bookings using Supabase for backend services and database management.
+
+<br/>
+<a href="YOUR_REPO_URL_CINEBOOK"><img src="https://img.shields.io/badge/View_Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/></a>
+<a href="YOUR_DEMO_URL_CINEBOOK"><img src="https://img.shields.io/badge/Live_Demo-3B82F6?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ## 💼 Experience & 🏆 Achievements
 
