@@ -137,32 +137,6 @@ An AI-powered plant disease detection system that uses deep learning and compute
 <tr>
 <td width="50%" valign="top">
 
-### 🎬 CineBook
-> **Full-Stack** | `React` `CSS` `JavaScript` `Supabase`
-
-A full-stack movie ticket booking web application designed to provide a seamless movie-booking experience. CineBook enables users to securely authenticate, browse available movies, explore movie details, select seats through an interactive interface, and manage their bookings using Supabase for backend services and database management.
-
-<br/>
-<a href="YOUR_REPO_URL_CINEBOOK"><img src="https://img.shields.io/badge/View_Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/></a>
-<a href="YOUR_DEMO_URL_CINEBOOK"><img src="https://img.shields.io/badge/Live_Demo-3B82F6?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-    
-### 💰 Personal Finance Tracker
-> **Web Application** | `React` `API`
-
-A finance management application built to help users track and understand their personal spending. Features include custom categorizations, transaction history, and visual financial summaries.
-
-<br/>
-<a href="YOUR_REPO_URL_PROJECT_03"><img src="https://img.shields.io/badge/View_Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/></a>
-<a href="YOUR_DEMO_URL_PROJECT_03"><img src="https://img.shields.io/badge/Live_Demo-3B82F6?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
-
-</td>
-<td width="50%" valign="top">
-
 ### 📉 Customer Churn EDA
 > **Data Analytics** | `Python` `Pandas` `Seaborn`
 
